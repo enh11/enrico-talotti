@@ -1,5 +1,3 @@
-  Enrico Talotti Homepage    
-
 Enrico Talotti
 ==============
 
@@ -67,4 +65,3 @@ Teaching activities (Assistant)
 
 *   **Basic Mathematics** - Biotecnology (University of Udine)
 
-Hosted on GitHub Pages.
